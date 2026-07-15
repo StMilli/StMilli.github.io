@@ -1,0 +1,4 @@
+*{font-family: sans-serif;}
+html{scroll-behavior: smooth;}
+body{background: #dfd54b;}
+.description{font-size: 18px; background: white;padding: 6%;} 
